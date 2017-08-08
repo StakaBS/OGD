@@ -1,37 +1,35 @@
-Kanton Basel-Stadt;;;;;;;
-;;;;;;;
-Kantonale Abstimmung vom 21. Mai 2017;;;;;;;Schlussresultat
-;;;;;;;
-(1) «Veloring-Initiative»;;;;;;;
-;"Stimmrechts-
-ausweise";Stimmzettel;;;;Stimmen;
-Wahllokale;;eingelegte;leere;ungültige;Total gültige;Ja;Nein
-Bahnhof SBB;921;921;29;0;892;541;351
-Rathaus;1127;1127;27;0;1100;651;449
-Polizeiwache Clara;462;462;16;0;446;278;168
-Basel brieflich Stimmende;43434;43350;667;9;42674;18345;24329
-Total Basel;45944;45860;739;9;45112;19815;25297
-Riehen Gemeindehaus;252;252;4;0;248;124;124
-Riehen brieflich Stimmende;7201;7201;108;0;7093;2040;5053
-Total Riehen;7453;7453;112;0;7341;2164;5177
-Bettingen Gemeindehaus;12;12;1;0;11;6;5
-Bettingen brieflich Stimmende;447;447;6;0;441;78;363
-Total Bettingen;459;459;7;0;452;84;368
-Total Kanton;53856;53772;858;9;52905;22063;30842
-;;;;;;;
-(2) «Gastgewerbegesetz»;;;;;;;
-;"Stimmrechts-
-ausweise";Stimmzettel;;;;Stimmen;
-Wahllokale;;eingelegte;leere;ungültige;Total gültige;Ja;Nein
-Bahnhof SBB;921;921;72;0;849;508;341
-Rathaus;1127;1127;77;0;1050;666;384
-Polizeiwache Clara;462;462;26;1;435;277;158
-Basel brieflich Stimmende;43434;43350;1564;16;41770;22137;19633
-Total Basel;45944;45860;1739;17;44104;23588;20516
-Riehen Gemeindehaus;252;252;9;0;243;135;108
-Riehen brieflich Stimmende;7201;7201;222;0;6979;3222;3757
-Total Riehen;7453;7453;231;0;7222;3357;3865
-Bettingen Gemeindehaus;12;12;0;0;12;4;8
-Bettingen brieflich Stimmende;447;447;11;0;436;189;247
-Total Bettingen;459;459;11;0;448;193;255
-Total Kanton;53856;53772;1981;17;51774;27138;24636
+Kanton Basel-Stadt,,,,,,,
+,,,,,,,
+Kantonale Abstimmung vom 21. Mai 2017,,,,,,,Schlussresultat
+,,,,,,,
+(1) Â«Veloring-InitiativeÂ»,,,,,,,
+,"Stimmrechtsausweise",Stimmzettel,,,,Stimmen,
+Wahllokale,,eingelegte,leere,ungÃ¼ltige,Total gÃ¼ltige,Ja,Nein
+Bahnhof SBB,921,921,29,0,892,541,351
+Rathaus,1127,1127,27,0,1100,651,449
+Polizeiwache Clara,462,462,16,0,446,278,168
+Basel brieflich Stimmende,43434,43350,667,9,42674,18345,24329
+Total Basel,45944,45860,739,9,45112,19815,25297
+Riehen Gemeindehaus,252,252,4,0,248,124,124
+Riehen brieflich Stimmende,7201,7201,108,0,7093,2040,5053
+Total Riehen,7453,7453,112,0,7341,2164,5177
+Bettingen Gemeindehaus,12,12,1,0,11,6,5
+Bettingen brieflich Stimmende,447,447,6,0,441,78,363
+Total Bettingen,459,459,7,0,452,84,368
+Total Kanton,53856,53772,858,9,52905,22063,30842
+,,,,,,,
+(2) Â«GastgewerbegesetzÂ»,,,,,,,
+,"Stimmrechtsausweise",Stimmzettel,,,,Stimmen,
+Wahllokale,,eingelegte,leere,ungÃ¼ltige,Total gÃ¼ltige,Ja,Nein
+Bahnhof SBB,921,921,72,0,849,508,341
+Rathaus,1127,1127,77,0,1050,666,384
+Polizeiwache Clara,462,462,26,1,435,277,158
+Basel brieflich Stimmende,43434,43350,1564,16,41770,22137,19633
+Total Basel,45944,45860,1739,17,44104,23588,20516
+Riehen Gemeindehaus,252,252,9,0,243,135,108
+Riehen brieflich Stimmende,7201,7201,222,0,6979,3222,3757
+Total Riehen,7453,7453,231,0,7222,3357,3865
+Bettingen Gemeindehaus,12,12,0,0,12,4,8
+Bettingen brieflich Stimmende,447,447,11,0,436,189,247
+Total Bettingen,459,459,11,0,448,193,255
+Total Kanton,53856,53772,1981,17,51774,27138,24636
