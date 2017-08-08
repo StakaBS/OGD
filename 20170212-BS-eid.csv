@@ -1,63 +1,60 @@
-Kanton Basel-Stadt;;;;;;;
-;;;;;;;
-Eidgenössische Volksabstimmung vom 12. Februar 2017;;;;;;;Schlussresultat
-;;;;;;;
-(1) «Erleichterte Einbürgerung dritte Generation»;;;;;;;
-;"Stimmrechts-
-ausweise";Stimmzettel;;;;Stimmen;
-Wahllokale;;eingelegte;leere;ungültige;Total gültige;Ja;Nein
-Bahnhof SBB;988;988;9;0;979;804;175
-Rathaus;1'074;1'074;7;0;1'067;897;170
-Polizeiwache Clara;420;419;6;0;413;341;72
-Basel brieflich Stimmende;45'704;45'669;393;8;45'268;30'560;14'708
-Total Basel;48'186;48'150;415;8;47'727;32'602;15'125
-Riehen Gemeindehaus;225;225;2;0;223;156;67
-Riehen brieflich Stimmende;7'227;7'224;47;1;7'176;4'164;3'012
-Total Riehen;7'452;7'449;49;1;7'399;4'320;3'079
-Bettingen Gemeindehaus;7;7;0;0;7;6;1
-Bettingen brieflich Stimmende;452;452;1;0;451;278;173
-Total Bettingen;459;459;1;0;458;284;174
-Elektronisch Stimmende AS;1'671;1'671;6;0;1'665;1'373;292
-Brieflich Stimmende AS;948;948;4;0;944;726;218
-Total Auslandschweizer (AS);2'619;2'619;10;0;2'609;2'099;510
-Total Kanton;58'716;58'677;475;9;58'193;39'305;18'888
-;;;;;;;
-(2) «Fonds für Nationalstrassen und Agglomerationsverkehr»;;;;;;;
-;"Stimmrechts-
-ausweise";Stimmzettel;;;;Stimmen;
-Wahllokale;;eingelegte;leere;ungültige;Total gültige;Ja;Nein
-Bahnhof SBB;988;988;75;0;913;452;461
-Rathaus;1'074;1'074;80;0;994;482;512
-Polizeiwache Clara;420;419;42;0;377;147;230
-Basel brieflich Stimmende;45'704;45'669;2'032;10;43'627;22'423;21'204
-Total Basel;48'186;48'150;2'229;10;45'911;23'504;22'407
-Riehen Gemeindehaus;225;225;11;0;214;138;76
-Riehen brieflich Stimmende;7'227;7'224;254;0;6'970;4'284;2'686
-Total Riehen;7'452;7'449;265;0;7'184;4'422;2'762
-Bettingen Gemeindehaus;7;7;0;0;7;6;1
-Bettingen brieflich Stimmende;452;452;17;0;435;304;131
-Total Bettingen;459;459;17;0;442;310;132
-Elektronisch Stimmende AS;1'671;1'671;51;0;1'620;1'141;479
-Brieflich Stimmende AS;948;948;22;0;926;657;269
-Total Auslandschweizer (AS);2'619;2'619;73;0;2'546;1'798;748
-Total Kanton;58'716;58'677;2'584;10;56'083;30'034;26'049
-;;;;;;;
-(3) «Unternehmenssteuerreformgesetz III»;;;;;;;
-;"Stimmrechts-
-ausweise";Stimmzettel;;;;Stimmen;
-Wahllokale;;eingelegte;leere;ungültige;Total gültige;Ja;Nein
-Bahnhof SBB;988;988;50;0;938;285;653
-Rathaus;1'074;1'074;58;1;1'015;335;680
-Polizeiwache Clara;420;419;34;1;384;86;298
-Basel brieflich Stimmende;45'704;45'669;1'731;15;43'923;18'042;25'881
-Total Basel;48'186;48'150;1'873;17;46'260;18'748;27'512
-Riehen Gemeindehaus;225;225;12;0;213;94;119
-Riehen brieflich Stimmende;7'227;7'224;254;1;6'969;3'504;3'465
-Total Riehen;7'452;7'449;266;1;7'182;3'598;3'584
-Bettingen Gemeindehaus;7;7;1;0;6;4;2
-Bettingen brieflich Stimmende;452;452;21;0;431;265;166
-Total Bettingen;459;459;22;0;437;269;168
-Elektronisch Stimmende AS;1'671;1'671;81;0;1'590;821;769
-Brieflich Stimmende AS;948;948;42;1;905;529;376
-Total Auslandschweizer (AS);2'619;2'619;123;1;2'495;1'350;1'145
-Total Kanton;58'716;58'677;2'284;19;56'374;23'965;32'409
+Kanton Basel-Stadt,,,,,,,
+,,,,,,,
+EidgenÃ¶ssische Volksabstimmung vom 12. Februar 2017,,,,,,,Schlussresultat
+,,,,,,,
+(1) Â«Erleichterte EinbÃ¼rgerung dritte GenerationÂ»,,,,,,,
+,"Stimmrechtsausweise",Stimmzettel,,,,Stimmen,
+Wahllokale,,eingelegte,leere,ungÃ¼ltige,Total gÃ¼ltige,Ja,Nein
+Bahnhof SBB,988,988,9,0,979,804,175
+Rathaus,1'074,1'074,7,0,1'067,897,170
+Polizeiwache Clara,420,419,6,0,413,341,72
+Basel brieflich Stimmende,45'704,45'669,393,8,45'268,30'560,14'708
+Total Basel,48'186,48'150,415,8,47'727,32'602,15'125
+Riehen Gemeindehaus,225,225,2,0,223,156,67
+Riehen brieflich Stimmende,7'227,7'224,47,1,7'176,4'164,3'012
+Total Riehen,7'452,7'449,49,1,7'399,4'320,3'079
+Bettingen Gemeindehaus,7,7,0,0,7,6,1
+Bettingen brieflich Stimmende,452,452,1,0,451,278,173
+Total Bettingen,459,459,1,0,458,284,174
+Elektronisch Stimmende AS,1'671,1'671,6,0,1'665,1'373,292
+Brieflich Stimmende AS,948,948,4,0,944,726,218
+Total Auslandschweizer (AS),2'619,2'619,10,0,2'609,2'099,510
+Total Kanton,58'716,58'677,475,9,58'193,39'305,18'888
+,,,,,,,
+(2) Â«Fonds fÃ¼r Nationalstrassen und AgglomerationsverkehrÂ»,,,,,,,
+,"Stimmrechtsausweise",Stimmzettel,,,,Stimmen,
+Wahllokale,,eingelegte,leere,ungÃ¼ltige,Total gÃ¼ltige,Ja,Nein
+Bahnhof SBB,988,988,75,0,913,452,461
+Rathaus,1'074,1'074,80,0,994,482,512
+Polizeiwache Clara,420,419,42,0,377,147,230
+Basel brieflich Stimmende,45'704,45'669,2'032,10,43'627,22'423,21'204
+Total Basel,48'186,48'150,2'229,10,45'911,23'504,22'407
+Riehen Gemeindehaus,225,225,11,0,214,138,76
+Riehen brieflich Stimmende,7'227,7'224,254,0,6'970,4'284,2'686
+Total Riehen,7'452,7'449,265,0,7'184,4'422,2'762
+Bettingen Gemeindehaus,7,7,0,0,7,6,1
+Bettingen brieflich Stimmende,452,452,17,0,435,304,131
+Total Bettingen,459,459,17,0,442,310,132
+Elektronisch Stimmende AS,1'671,1'671,51,0,1'620,1'141,479
+Brieflich Stimmende AS,948,948,22,0,926,657,269
+Total Auslandschweizer (AS),2'619,2'619,73,0,2'546,1'798,748
+Total Kanton,58'716,58'677,2'584,10,56'083,30'034,26'049
+,,,,,,,
+(3) Â«Unternehmenssteuerreformgesetz IIIÂ»,,,,,,,
+,"Stimmrechtsausweise",Stimmzettel,,,,Stimmen,
+Wahllokale,,eingelegte,leere,ungÃ¼ltige,Total gÃ¼ltige,Ja,Nein
+Bahnhof SBB,988,988,50,0,938,285,653
+Rathaus,1'074,1'074,58,1,1'015,335,680
+Polizeiwache Clara,420,419,34,1,384,86,298
+Basel brieflich Stimmende,45'704,45'669,1'731,15,43'923,18'042,25'881
+Total Basel,48'186,48'150,1'873,17,46'260,18'748,27'512
+Riehen Gemeindehaus,225,225,12,0,213,94,119
+Riehen brieflich Stimmende,7'227,7'224,254,1,6'969,3'504,3'465
+Total Riehen,7'452,7'449,266,1,7'182,3'598,3'584
+Bettingen Gemeindehaus,7,7,1,0,6,4,2
+Bettingen brieflich Stimmende,452,452,21,0,431,265,166
+Total Bettingen,459,459,22,0,437,269,168
+Elektronisch Stimmende AS,1'671,1'671,81,0,1'590,821,769
+Brieflich Stimmende AS,948,948,42,1,905,529,376
+Total Auslandschweizer (AS),2'619,2'619,123,1,2'495,1'350,1'145
+Total Kanton,58'716,58'677,2'284,19,56'374,23'965,32'409
